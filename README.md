@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Vanshika 👋
 
-<!--
-**Vanshi17/Vanshi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an aspiring Android Developer passionate about building mobile applications using Kotlin, Jetpack Compose, and Firebase.
 
-Here are some ideas to get you started:
+## Skills & Technologies:
+- Android Development
+- Kotlin
+- Jetpack Compose
+- Firebase
+- Retrofit
+- Material Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+- I love solving problems through code.
+- Always learning and growing with every project.
+- You can find me building apps and exploring new technologies.
+
+## Get in Touch:
+- Email: [vanshikagupta1704@gmail.com](mailto:vanshikagupta1704@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vanshika-gupta-48629922a/)
