@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm an aspiring Android Developer passionate about
 ## Skills & Technologies:
 - Android Development
 - Kotlin
+- Java
 - Jetpack Compose
 - Firebase
 - Retrofit
