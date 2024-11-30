@@ -17,5 +17,5 @@ Welcome to my GitHub profile! I'm an aspiring Android Developer passionate about
 - You can find me building apps and exploring new technologies.
 
 ## Get in Touch:
-- Email: [vanshikagupta1704@gmail.com](mailto:vanshikagupta1704@gmail.com)
+- Email: [vanshikagupta.bhumca23@gmail.com](mailto:vanshikagupta.bhumca23@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vanshika-gupta-48629922a/)
