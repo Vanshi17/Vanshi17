@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm an aspiring Android Developer passionate about building mobile applications using Kotlin, Jetpack Compose, and Firebase.
 
 ## Skills & Technologies:
+- React Native
 - Android Development
 - Kotlin
 - Java
